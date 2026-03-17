@@ -69,7 +69,7 @@ amanah-digital/
 ### 1. Clone repositori
 
 ```bash
-git clone https://github.com/username/amanah-digital.git
+git clone https://github.com/Rahman-Profesional-Programmer/amanah-digital.git
 cd amanah-digital
 ```
 
